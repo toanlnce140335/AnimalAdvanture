@@ -1,0 +1,394 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b5e10ab764b362e46821966103a5a543, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 37099450368
+    m_Localized: THE BEST GAME EVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9336131465216
+    m_Localized: CHOOSE YOUR LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9380091965440
+    m_Localized: ' POINTS'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9384420487168
+    m_Localized: GAME OVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2039198002229248
+    m_Localized: CHOOSE YOUR CHARACTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2039863554387968
+    m_Localized: GAME COMPLETED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2040390010843136
+    m_Localized: Thank You For Playing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20645668755124224
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22679692096876544
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22681890423877632
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22682739661385728
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22688790561468416
+    m_Localized: EngLish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22688960594358272
+    m_Localized: Japanese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22689148364959744
+    m_Localized: Vietnamese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22785278859849728
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35120827910107136
+    m_Localized: ARE YOU SURE WANT TO QUIT THE GAME?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35121704775495680
+    m_Localized: YES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35121709909323776
+    m_Localized: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44810571862552576
+    m_Localized: Storyline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44810999652200448
+    m_Localized: "\tThe game starts with your character will be an aboriginal in
+      the Amazon rainforest of a remote South American land on the border between
+      Venezuela and Brazil, a place completely isolated from the outside world, and
+      has long been inhabited by the mysterious Yanomami tribe. Here, tribal people
+      live in harmony with nature, consider animals friends, and consider forests
+      home. Although living conditions are difficult due to lack of access to modern
+      civilization and here the natural conditions are extremely harsh for humans,
+      but for them, nature is the source of life, the home of life. the common home
+      of all species cannot be lost. People living here have long given nature and
+      animals here a great love, animals live in harmony with humans. The peaceful
+      life continued until one day when the loud engine sounds from bulldozers, excavators,
+      chainsaws, and horns broke the peace of the forest. Black smoke enveloped the
+      fresh air of this place. That's also when the footsteps from the uninvited
+      guests set down here. They are the loggers who destroy forests and hunt rare
+      animals in this remote Amazon land. With the ambition of getting rich from
+      the resources of the forest, they hunt for rare animals and exploit precious
+      wood. In order to sell to the rich to make a large sum of money from this,
+      they proceeded to scavenge all the products they found that they considered
+      valuable despite the resistance of the tribesmen. Determined not to let his
+      homeland and forest be trampled and destroyed, the wild friends were taken
+      away. Seeing the children of animals lucky to escape, they cried because they
+      could not see their mother's parents, because they were hungry. Aboriginal
+      people think of the family scene of animals and think of their own homes. Everyone
+      has the right to a home and family those people do not have the right to take
+      the lives of animals. The people of the tribe decided to go to the city where
+      the other loggers were keeping the animals in order to rescue the captured
+      animals and bring them back to the green forest, with their families. And the
+      journey to rescue the captured animals begins here! Along the way, they have
+      to go through many challenges and obstacles that stand in their way. A total
+      of 4 chapters including 12 levels players will pass through levels with different
+      regions from jungle to desert to human place divided into big chapters for
+      each region: The Jungle, The Swamp, Desert Area, and Abandoned Factory."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44813858720493568
+    m_Localized: Library
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44927122817200128
+    m_Localized: Rhinoceros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44928013674786816
+    m_Localized: The Rhinoceros is the second largest terrestrial mammal on earth.
+      At the beginning of the 20th century, there were 500,000 rhinos living freely
+      in the wild. However, today, the number of rhinos remaining in the wild is
+      not much. The vast majority of rhinos now live in national parks and reserves
+      due to persistent poaching and habitat loss over the past several decades.
+      Many projects to rescue and protect rhinos were established.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44929134321512448
+    m_Localized: 'Characteristics: Big body, oblong head, perverted ears, small eyes,
+      very sensitive sense of smell. Horns grow right at the nose, attached to the
+      thick layer of skin. Thick, hard skin. The skin surface has many folds that
+      divide the body into many pieces. Thin, dark gray hair.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44929998830481408
+    m_Localized: 'Weight: From 450kg to 1,360kg
+
+      Lifespan: 35 - 50 years
+
+      Habitat
+      area: grasslands and savannas
+
+      Distribution: Asia and Africa Conservation
+
+      Conservation
+      Status: Critically Endangered'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44952829375066112
+    m_Localized: Pangolins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44952976255397888
+    m_Localized: The pangolin is the most trafficked wild mammal in the world. Every
+      year, about 100,000 individuals are hunted from the wild for the illegal trade,
+      with the two main purposes of using scales in traditional medicine and eating
+      meat. For these reasons, pangolins may disappear before much of the world knows
+      about them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44953551441276928
+    m_Localized: 'Characteristics: Small ears, Front toenails are about 1.5 times
+      longer or larger than hind toenails. The tail is long, with 24-28 rows of scales
+      along the tail.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44953753514455040
+    m_Localized: 'Weight: 5 to 27 kg (10 to 60 pounds)
+
+      Lifespan: 35 - 50 years
+
+      Habitat:
+      tropical forests and savannas.
+
+      Distribution: Asia, Africa
+
+      Conservation
+      Status: Critically Endangered'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966539917307904
+    m_Localized: Tamarin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966726991654912
+    m_Localized: Leontopithecus rosalia is a species of mammal in the family Cebidae,
+      order Primates. By 1960 this species was almost extinct in the wild. And according
+      to the development of society, the living area of the species is increasingly
+      narrowed leading to the risk of extinction of the species, now conservation
+      centers are trying to reproduce the species in captivity and there are many
+      phenomena. positive variable.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44967176356802560
+    m_Localized: 'Characteristics: The distinctive orange-red and yellow-brown coat
+      is characterized by extra long hairs around the face and ears that give it
+      a distinctive mane. Its face is black and hairless. The bright orange coat
+      of this species does not contain carotenoids, which normally give a bright
+      orange color in nature.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44967566187999232
+    m_Localized: "Weight: 540g\r\nLifespan: 152 days \u2013 220 days depending on
+      species\r\nHabitat: tropical rainforest.\r\nDistribution: South America\r\nConservation
+      status: Endangered"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45148930002694144
+    m_Localized: Jaguar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45150325221142528
+    m_Localized: The jaguar is the largest wild cat in the Americas. The jaguar is
+      the closest relative of the leopard. They are listed as Vulnerable on the IUCN
+      Red List. Jaguars have been hunted by humans for ages because they have beautiful
+      fur. Currently, hunting jaguars has been banned, but their numbers are decreasing
+      markedly due to habitat loss.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45150451184480256
+    m_Localized: 'Characteristics: They have a large and wide head structure and
+      strong teeth, known as the cat with the strongest bite force in the world.
+      The jaguar often has a yellow-black spotted coat covering the body, the spots
+      of black spots are as wide as a rose flower. The pattern covering the jaguar''s
+      body is unique. Camouflage is vital to jaguars.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45151412929998848
+    m_Localized: 'Weight: 56-96 kg maximum can be up to 158 kg
+
+      Lifespan: 12
+      - 15 years
+
+      Habitat: Amazon region of Brazil, Bolivia and Colombia.
+
+      Distribution:
+      Americas
+
+      Conservation status: near threatened'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45157098195824640
+    m_Localized: Southern Tiger Cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45157242056257536
+    m_Localized: The southern tiger cat Leopardus guttulus was formerly known as
+      Oncillas, Tigrinas, the little spotted cat or the tiger cat. In 2013 after
+      genetic testing, Oncilla was split into two species and they are now known
+      as the Southern Tiger Cat Leopardus guttulus or the Northern Tiger Cat Leopardus
+      tigrinus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45157500127588352
+    m_Localized: 'Characteristics: Large ears with a black backside with a white
+      spot in the middle. The iris is yellow or light brown. Males are slightly but
+      significantly larger than females. It is ocher in color, with large, round
+      open asterisks. The lighter belly feathers are covered with dark spots. The
+      bristles are stiff, close to the skin and do not stand up on the nape of the
+      neck.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45157817699315712
+    m_Localized: 'Weight: 1.8-3.5 kg
+
+      Lifespan: 15 - 21 years
+
+      Habitat:
+      dense tropical and subtropical rainforests.
+
+      Distribution: southern and
+      southeastern Americas
+
+      Conservation Status: Near Endangered'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45162963263074304
+    m_Localized: Okapi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45163105030549504
+    m_Localized: The okapi is a close relative of the giraffe, making it one of the
+      oldest mammals in the world. Currently threatened with extinction by deforestation.
+      Over the past decade, the number of striped-legged deer has decreased by more
+      than 60%. Extensive hunting for meat and skins as well as illegal fishing also
+      lead to population decline.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45163816627777536
+    m_Localized: 'Characteristics: It has a long neck, and large and flexible ears.
+      The coat is chocolate to russet, contrasting heavily with the white horizontal
+      stripes and white leg and ankle rings. The striking stripes make it resemble
+      a zebra. The face, throat and chest are grayish-white. Interstitial glands
+      are present in all four feet and are slightly larger in the forefoot.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45164520855613440
+    m_Localized: 'Weight: 200 - 350 kg
+
+      Lifespan: 15 - 21 years
+
+      Habitat:
+      Tropical forests.
+
+      Distribution: Central Africa
+
+      Conservation status:
+      Endangered'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45931305062150144
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45931659321454592
+    m_Localized: ARE YOU SURE WANT TO RESET THE GAME?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49824572426203136
+    m_Localized: RESTART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49826197853220864
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49826564871598080
+    m_Localized: High Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49826874851635200
+    m_Localized: Finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49827184395464704
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49875443298119680
+    m_Localized: CONTINUE (5 GEMS)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51291417964490752
+    m_Localized: 'Skill: Double Jump'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51293266180354048
+    m_Localized: 'Skill: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51293434770403328
+    m_Localized: 'Skill: Speed Up, Smash Rock'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51293642673664000
+    m_Localized: 'Skill: Speed Up,  Smach Rock, Double Jump.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51981481455431680
+    m_Localized: Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52813446404419584
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52814150095384576
+    m_Localized: DO YOU WANT TO TOP UP MORE COINS?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

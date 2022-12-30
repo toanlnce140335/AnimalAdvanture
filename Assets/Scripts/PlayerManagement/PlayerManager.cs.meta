@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ebbda1b2b59f818499606b5386ddb247
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterDB: {instanceID: 0}
+  - artwoekSprite: {instanceID: 0}
+  - deathSoundEffect: {instanceID: 0}
+  - GameOver: {fileID: 5481384131934104093, guid: 3ecf98be6cb11154a97302f5881dcec7, type: 3}
+  - GameFinish: {fileID: 179417337727877569, guid: c05b0c9a00b268f4f83db004b4991355, type: 3}
+  - jumpSoundEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

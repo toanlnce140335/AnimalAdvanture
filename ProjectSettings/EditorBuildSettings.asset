@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2e98aecf78db93a4898911212b9cdae7
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelected.unity
+    guid: b03c93f6773403e448c156ce71acf609
+  - enabled: 1
+    path: Assets/Scenes/LevelScene.unity
+    guid: 708fa55b7f64330498ed97bd87e1f89d
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: df12af3361d758945b80f971a98cdfed
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: f8a5f46257a6a6d41bbae8bed49efe89
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: f01f2ce6e4780034abd65cfe7b0b2fb8
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 8a17eeedb0d25714581f3a74c9f5543e
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 6d4e23e214ecdad45b2d4a611ce219dc
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: e3779b6b654fbbe48861661fa083f70f
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: eda27571f0c82ce4db063033129d1412
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 54331f39e766f184aa4ec42e35193db7
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 1a525ffd34b635f43a8b0e384aa96f70
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: bad80407ef2973942ba97dde8eb7412b
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: 6ab2cb10ce98f4f4e8a7db4283ff822d
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: ded0f9ed8ab2ab749b70e2ed5ed9eb6c
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 446448d7d30607a4ab7f389bbdcb85cd
+  - enabled: 1
+    path: Assets/Scenes/LanguageScene.unity
+    guid: aae60527ad013d148a23e1e80bf3ffcb
+  - enabled: 1
+    path: Assets/Scenes/InfoScene.unity
+    guid: 3659c7976cba5994aa41dc1905e4fe9e
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: f2138f8640b6855479c3aa4f179af6f1
+  - enabled: 1
+    path: Assets/Scenes/LibraryScene.unity
+    guid: 2888b7f9ea22f0748a140031ce587396
+  - enabled: 1
+    path: Assets/Scenes/ShopScene.unity
+    guid: a66628713a827a645b422575a989e5c0
+  - enabled: 1
+    path: Assets/Scenes/HTPScene.unity
+    guid: 4af2da0259ceb6d40a1fbc745b651e35
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: d22bb3d04760a674487a667ee6927434, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 3279872bda7e38949bda91f6927e833d, type: 2}
